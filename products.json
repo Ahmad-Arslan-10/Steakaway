@@ -1,0 +1,291 @@
+[
+  {
+    "categoryName": "APPETIZERS",
+    "products": [
+      {
+        "id": 1,
+        "name": "Cheese Sticks",
+        "description": "Cheesy Cheese Sticks Perfect For A Light Snack",
+        "price": 650,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718447188.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Tacos",
+        "description": "Tender chicken soft tacos with smoky salsa pickels olives jalapenos and secret sauce.",
+        "price": 650,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718447585.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Onion Rings",
+        "description": "Golden-fried onion rings.",
+        "price": 350,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718444772.jpg"
+      },
+      {
+        "id": 4,
+        "name": "CRISPY WINGS",
+        "description": "Crispy Wings In Your Choice Of Sauce Perfect For A Light Snack.",
+        "price": 650,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718446408.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "STUFFED CHICKEN",
+    "products": [
+      {
+        "id": 5,
+        "name": "SPINACH POLO",
+        "description": "Chicken breasts stuffed with spinach filling, strings of cheese, and a crispy exterior packed with herbs. Served with sauteed vegetables and mashed potatoes.",
+        "price": 1750,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1724312974.jpg"
+      },
+      {
+        "id": 6,
+        "name": "BUTTER BOMB",
+        "description": "Creamy white sauce oozing out of chicken, packed with cheese and herbs. Served with sauteed vegetables and mashed potatoes.",
+        "price": 1750,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1724313183.jpg"
+      },
+      {
+        "id": 7,
+        "name": "MUSHROOM ROULADE",
+        "description": "Crispy golden chicken roulade, with a creamy mushroom filling and sun-kissed tomatoes. Served with sauteed vegetables and mashed potatoes.",
+        "price": 1750,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1724313329.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "STEAKS",
+    "products": [
+      {
+        "id": 8,
+        "name": "Jalapeno Cheese Chicken",
+        "description": "240g Extra - Juicy Breast Fillets Marinated In A Secret Recipe Topped With A Secret Cheese Melt Sauce In Your Choice Of Flavour.",
+        "price": 1450,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718445376.jpg"
+      },
+      {
+        "id": 9,
+        "name": "TARRAGON BUTTER CHICKEN",
+        "description": "240g Extra - Juicy Breast Fillet Marinated With A Secret Recipe Topped With Mild Spicy Terragon Butter Sauce.",
+        "price": 1450,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718446208.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Black Pepper Cheese Chicken",
+        "description": "Lean and flavorful black pepper cheese chicken steak.",
+        "price": 1450,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718448007.jpg"
+      },
+      {
+        "id": 11,
+        "name": "TENDERLOIN (All Sides)",
+        "description": "Charcoal Grilled Tender Steak Slices Served With A Free Sauce Of Your Choice, Mashed Potato, Creamy Spinach And Potato Wedges.",
+        "price": 2250,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718447332.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "PASTA",
+    "products": [
+      {
+        "id": 12,
+        "name": "Alfredo",
+        "description": "Creamy white sauce parmesan cheese grilled chicken baby spinach packed with herbs.",
+        "price": 950,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718447439.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Spinach Mushroom",
+        "description": "Mushroom parmesan cheese grilled chicken tossed in creamy spinach-infused sauce.",
+        "price": 950,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1724309599.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "SMASH BURGERS",
+    "products": [
+      {
+        "id": 14,
+        "name": "BUTTER SMASH",
+        "description": "Beef Smash Patty In Butter Brioche Bun With Cheese, Caramelized Onion And Extra Butter",
+        "price": 650,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718445319.jpg"
+      },
+      {
+        "id": 15,
+        "name": "JALAPENO SMASH",
+        "description": "Beef Smash Patty In Butter Brioche Bun With Cheese And Secret Jalapeno Sauce That Gives You A Mild Spice In The Smash.",
+        "price": 650,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718445524.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "THICK BURGERS",
+    "products": [
+      {
+        "id": 16,
+        "name": "Classic Thick Burger",
+        "description": "A beef patty served with fresh lettuce, tomatoes, pickles, and cheddar cheese on a toasted bun.",
+        "price": 750,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718445274.jpg"
+      },
+      {
+        "id": 17,
+        "name": "BBQ Bacon Thick Burger",
+        "description": "A smoky BBQ sauce, crispy bacon, cheddar cheese, and a beef patty.",
+        "price": 850,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718446661.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "MELT BURGERS",
+    "products": [
+      {
+        "id": 18,
+        "name": "Cheese Melt Burger",
+        "description": "A double layer of melted cheese, grilled patty, and a toasted bun.",
+        "price": 800,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718445195.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Jalapeno Cheese Melt",
+        "description": "Spicy jalapenos and cheese melt together on a juicy beef patty.",
+        "price": 850,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718446927.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "CRISPY BURGERS",
+    "products": [
+      {
+        "id": 20,
+        "name": "Crispy Chicken Burger",
+        "description": "Crispy chicken breast, lettuce, and mayo in a toasted bun.",
+        "price": 700,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718446350.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Crispy Veggie Burger",
+        "description": "A crispy patty made from mixed vegetables, served with sauce and fresh veggies.",
+        "price": 650,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718444772.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "PREMIUM DRINKS",
+    "products": [
+      {
+        "id": 22,
+        "name": "Milkshake",
+        "description": "Rich and creamy milkshake available in chocolate, vanilla, and strawberry.",
+        "price": 450,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718445787.jpg"
+      },
+      {
+        "id": 23,
+        "name": "Lemonade",
+        "description": "Freshly squeezed lemonade, refreshing and tangy.",
+        "price": 300,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718445998.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "ICE-CREAM SHAKES",
+    "products": [
+      {
+        "id": 24,
+        "name": "Chocolate Shake",
+        "description": "Creamy chocolate ice cream with a rich chocolate shake base.",
+        "price": 500,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718445695.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Strawberry Shake",
+        "description": "A smooth strawberry shake made with fresh ice cream.",
+        "price": 500,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718445900.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "ADD-ONS",
+    "products": [
+      {
+        "id": 26,
+        "name": "Cheese Slice",
+        "description": "Add an extra slice of cheese to your meal.",
+        "price": 100,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1688239638.jpeg"
+      },
+      {
+        "id": 27,
+        "name": "Bottle",
+        "description": "Fresh And Chilled",
+        "price": 150,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718448712.jpeg"
+      }
+    ]
+  },
+  {
+    "categoryName": "DESSERTS",
+    "products": [
+      {
+        "id": 28,
+        "name": "Chocolate Cake",
+        "description": "Decadent chocolate cake with rich icing.",
+        "price": 400,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1718448355.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Molten Lava With Ice-Cream",
+        "description": "Sweet Ice Cream and Chocolate Molten Lava.",
+        "price": 550,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1726234805.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "KIDS MENU",
+    "products": [
+      {
+        "id": 30,
+        "name": "CHICKEN FILLET BURGER",
+        "description": "100g Chicken Fillet Burger With Garlic Mayo Sauce And Ice-burg Perfect For Your Burger Loving Little Angel.",
+        "price": 400,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1724309003.jpg"
+      },
+      {
+        "id": 31,
+        "name": "Chicken Nuggets",
+        "description": "Crispy chicken nuggets with a side of ketchup.",
+        "price": 350,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1724309356.jpg"
+      },
+      {
+        "id": 32,
+        "name": "CHICKEN TENDER POPS",
+        "description": "8 Pcs Of Chicken Tender Pops Perfect Carb-free Meal For Your Little Angel.",
+        "price": 500,
+        "image": "https://em-cdn.eatmubarak.pk/55484/dish_image/1724309261.jpg"
+      }
+    ]
+  }
+]

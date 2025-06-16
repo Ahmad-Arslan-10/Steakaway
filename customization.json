@@ -1,0 +1,615 @@
+{
+	
+  "8": {
+    "name": "Jalapeno Cheese Chicken",
+    "customizations": [
+      {
+        "name": "Sides",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Basic Sides (Mashed Potato, Sautéd Vegetables)", "price": 1450.00},
+          {"name": "All Sides (Mashed Potato, Sautéd Vegetables, Creamy Spinach, Potato Wedges, Roasted Garlic)", "price": 1750.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Sauces",
+        "type": "checkbox",
+        "options": [
+          {"name": "Spicy Moroccan", "price": 200.00},
+          {"name": "Terragon Butter", "price": 200.00},
+          {"name": "Rocket Mushroom", "price": 200.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Saute Vegetables", "price": 150.00},
+          {"name": "Mashed Potato", "price": 150.00},
+          {"name": "Creamy Spinach", "price": 250.00},
+          {"name": "Fries", "price": 200.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drink",
+        "type": "checkbox",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "9": {
+    "name": "BBQ Ribs",
+    "customizations": [
+      {
+        "name": "Sides",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Basic Sides (Mashed Potato, Sautéd Vegetables)", "price": 1450.00},
+          {"name": "All Sides (Mashed Potato, Sautéd Vegetables, Creamy Spinach, Potato Wedges, Roasted Garlic)", "price": 1750.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Sauces",
+        "type": "checkbox",
+        "options": [
+          {"name": "BBQ Glaze", "price": 200.00},
+          {"name": "Garlic Butter", "price": 200.00},
+          {"name": "Teriyaki", "price": 200.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Saute Vegetables", "price": 150.00},
+          {"name": "Mashed Potato", "price": 150.00},
+          {"name": "Creamy Spinach", "price": 250.00},
+          {"name": "Fries", "price": 200.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drink",
+        "type": "checkbox",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "10": {
+    "name": "Grilled T-Bone",
+    "customizations": [
+      {
+        "name": "Sides",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Basic Sides (Mashed Potato, Sautéd Vegetables)", "price": 1450.00},
+          {"name": "All Sides (Mashed Potato, Sautéd Vegetables, Creamy Spinach, Potato Wedges, Roasted Garlic)", "price": 1750.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Sauces",
+        "type": "checkbox",
+        "options": [
+          {"name": "Peppercorn", "price": 200.00},
+          {"name": "Chimichurri", "price": 200.00},
+          {"name": "Blue Cheese", "price": 200.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Saute Vegetables", "price": 150.00},
+          {"name": "Mashed Potato", "price": 150.00},
+          {"name": "Creamy Spinach", "price": 250.00},
+          {"name": "Fries", "price": 200.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drink",
+        "type": "checkbox",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "11": {
+    "name": "Filet Mignon",
+    "customizations": [
+      {
+        "name": "Sides",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Basic Sides (Mashed Potato, Sautéd Vegetables)", "price": 1450.00},
+          {"name": "All Sides (Mashed Potato, Sautéd Vegetables, Creamy Spinach, Potato Wedges, Roasted Garlic)", "price": 1750.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Sauces",
+        "type": "checkbox",
+        "options": [
+          {"name": "Red Wine Sauce", "price": 200.00},
+          {"name": "Garlic Herb Butter", "price": 200.00},
+          {"name": "Béarnaise", "price": 200.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Saute Vegetables", "price": 150.00},
+          {"name": "Mashed Potato", "price": 150.00},
+          {"name": "Creamy Spinach", "price": 250.00},
+          {"name": "Fries", "price": 200.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drink",
+        "type": "checkbox",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "14": {
+    "name": "BUTTER SMASH",
+    "customizations": [
+      {
+        "name": "Select your Bread",
+        "type": "radio",
+        "required": true,
+        "options": [
+          "Burger (Potato Bun)",
+          "Burgerito (Tortilla)"
+        ]
+      },
+      {
+        "name": "Meat & Size",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Beef Single (150g)", "price": 750.00},
+          {"name": "Beef Double (300g)", "price": 1050.00},
+          {"name": "Chicken Single (150g)", "price": 750.00},
+          {"name": "Chicken Double (300g)", "price": 1050.00}
+        ]
+      },
+      {
+        "name": "Special Instructions",
+        "type": "checkbox",
+        "options": [
+          "Half-Cut",
+          "No Cheese"
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Extra Cheese", "price": 100.00},
+          {"name": "Fries", "price": 200.00},
+          {"name": "Onion Rings", "price": 350.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drinks",
+        "type": "radio",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "15": {
+    "name": "JALAPENO SMASH",
+    "customizations": [
+      {
+        "name": "Select your Bread",
+        "type": "radio",
+        "required": true,
+        "options": [
+          "Burger (Potato Bun)",
+          "Burgerito (Tortilla)"
+        ]
+      },
+      {
+        "name": "Meat & Size",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Beef Single (150g)", "price": 750.00},
+          {"name": "Beef Double (300g)", "price": 1050.00},
+          {"name": "Chicken Single (150g)", "price": 750.00},
+          {"name": "Chicken Double (300g)", "price": 1050.00}
+        ]
+      },
+      {
+        "name": "Special Instructions",
+        "type": "checkbox",
+        "options": [
+          "Half-Cut",
+          "No Cheese"
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Extra Cheese", "price": 100.00},
+          {"name": "Fries", "price": 200.00},
+          {"name": "Onion Rings", "price": 350.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drinks",
+        "type": "radio",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "16": {
+    "name": "SPICY BBQ SMASH",
+    "customizations": [
+      {
+        "name": "Select your Bread",
+        "type": "radio",
+        "required": true,
+        "options": [
+          "Burger (Potato Bun)",
+          "Burgerito (Tortilla)"
+        ]
+      },
+      {
+        "name": "Meat & Size",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Beef Single (150g)", "price": 750.00},
+          {"name": "Beef Double (300g)", "price": 1050.00},
+          {"name": "Chicken Single (150g)", "price": 750.00},
+          {"name": "Chicken Double (300g)", "price": 1050.00}
+        ]
+      },
+      {
+        "name": "Special Instructions",
+        "type": "checkbox",
+        "options": [
+          "Half-Cut",
+          "No Cheese"
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Extra Cheese", "price": 100.00},
+          {"name": "Fries", "price": 200.00},
+          {"name": "Onion Rings", "price": 350.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drinks",
+        "type": "radio",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "17": {
+    "name": "CHEESEBURGER SMASH",
+    "customizations": [
+      {
+        "name": "Select your Bread",
+        "type": "radio",
+        "required": true,
+        "options": [
+          "Burger (Potato Bun)",
+          "Burgerito (Tortilla)"
+        ]
+      },
+      {
+        "name": "Meat & Size",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Beef Single (150g)", "price": 750.00},
+          {"name": "Beef Double (300g)", "price": 1050.00},
+          {"name": "Chicken Single (150g)", "price": 750.00},
+          {"name": "Chicken Double (300g)", "price": 1050.00}
+        ]
+      },
+      {
+        "name": "Special Instructions",
+        "type": "checkbox",
+        "options": [
+          "Half-Cut",
+          "No Cheese"
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Extra Cheese", "price": 100.00},
+          {"name": "Fries", "price": 200.00},
+          {"name": "Onion Rings", "price": 350.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drinks",
+        "type": "radio",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "18": {
+    "name": "BBQ CHICKEN SMASH",
+    "customizations": [
+      {
+        "name": "Select your Bread",
+        "type": "radio",
+        "required": true,
+        "options": [
+          "Burger (Potato Bun)",
+          "Burgerito (Tortilla)"
+        ]
+      },
+      {
+        "name": "Meat & Size",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Beef Single (150g)", "price": 750.00},
+          {"name": "Beef Double (300g)", "price": 1050.00},
+          {"name": "Chicken Single (150g)", "price": 750.00},
+          {"name": "Chicken Double (300g)", "price": 1050.00}
+        ]
+      },
+      {
+        "name": "Special Instructions",
+        "type": "checkbox",
+        "options": [
+          "Half-Cut",
+          "No Cheese"
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Extra Cheese", "price": 100.00},
+          {"name": "Fries", "price": 200.00},
+          {"name": "Onion Rings", "price": 350.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drinks",
+        "type": "radio",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "19": {
+    "name": "MUSHROOM SMASH",
+    "customizations": [
+      {
+        "name": "Select your Bread",
+        "type": "radio",
+        "required": true,
+        "options": [
+          "Burger (Potato Bun)",
+          "Burgerito (Tortilla)"
+        ]
+      },
+      {
+        "name": "Meat & Size",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Beef Single (150g)", "price": 750.00},
+          {"name": "Beef Double (300g)", "price": 1050.00},
+          {"name": "Chicken Single (150g)", "price": 750.00},
+          {"name": "Chicken Double (300g)", "price": 1050.00}
+        ]
+      },
+      {
+        "name": "Special Instructions",
+        "type": "checkbox",
+        "options": [
+          "Half-Cut",
+          "No Cheese"
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Extra Cheese", "price": 100.00},
+          {"name": "Fries", "price": 200.00},
+          {"name": "Onion Rings", "price": 350.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drinks",
+        "type": "radio",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "20": {
+    "name": "VEGGIE SMASH",
+    "customizations": [
+      {
+        "name": "Select your Bread",
+        "type": "radio",
+        "required": true,
+        "options": [
+          "Burger (Potato Bun)",
+          "Burgerito (Tortilla)"
+        ]
+      },
+      {
+        "name": "Meat & Size",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Beef Single (150g)", "price": 750.00},
+          {"name": "Beef Double (300g)", "price": 1050.00},
+          {"name": "Chicken Single (150g)", "price": 750.00},
+          {"name": "Chicken Double (300g)", "price": 1050.00}
+        ]
+      },
+      {
+        "name": "Special Instructions",
+        "type": "checkbox",
+        "options": [
+          "Half-Cut",
+          "No Cheese"
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Extra Cheese", "price": 100.00},
+          {"name": "Fries", "price": 200.00},
+          {"name": "Onion Rings", "price": 350.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drinks",
+        "type": "radio",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  },
+  "21": {
+    "name": "Bacon SMASH",
+    "customizations": [
+      {
+        "name": "Select your Bread",
+        "type": "radio",
+        "required": true,
+        "options": [
+          "Burger (Potato Bun)",
+          "Burgerito (Tortilla)"
+        ]
+      },
+      {
+        "name": "Meat & Size",
+        "type": "radio",
+        "required": true,
+        "options": [
+          {"name": "Beef Single (150g)", "price": 750.00},
+          {"name": "Beef Double (300g)", "price": 1050.00},
+          {"name": "Chicken Single (150g)", "price": 750.00},
+          {"name": "Chicken Double (300g)", "price": 1050.00}
+        ]
+      },
+      {
+        "name": "Special Instructions",
+        "type": "checkbox",
+        "options": [
+          "Half-Cut",
+          "No Cheese"
+        ]
+      },
+      {
+        "name": "Ad - On: Sides",
+        "type": "checkbox",
+        "options": [
+          {"name": "Extra Cheese", "price": 100.00},
+          {"name": "Fries", "price": 200.00},
+          {"name": "Onion Rings", "price": 350.00}
+        ]
+      },
+      {
+        "name": "Ad - On: Drinks",
+        "type": "radio",
+        "options": [
+          {"name": "Mineral Water", "price": 125.00},
+          {"name": "Coke", "price": 150.00},
+          {"name": "Sprite", "price": 150.00},
+          {"name": "Fanta", "price": 250.00},
+          {"name": "Coke Zero", "price": 250.00},
+          {"name": "Sprite Zero", "price": 250.00}
+        ]
+      }
+    ]
+  }
+}
